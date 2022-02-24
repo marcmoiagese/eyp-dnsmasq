@@ -1,8 +1,8 @@
 {
   "name": "eyp-dnsmasq",
   "version": "0.1.0",
-  "author": "eyp",
-  "summary": null,
+  "author": "Jordi Prats",
+  "summary": "dnsmasq",
   "license": "Apache-2.0",
   "source": "https://github.com/SaltaIT/eyp-dnsmasq",
   "project_page": "https://github.com/SaltaIT/eyp-dnsmasq",
